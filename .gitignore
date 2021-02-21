@@ -1,6 +1,6 @@
 # generated website files
 public/
-resources/
+/resources/
 .Rproj.user/
 .DS_Store
 .Rhistory
