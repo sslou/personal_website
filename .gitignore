@@ -1,6 +1,10 @@
 # generated website files
 public/
 resources/
+.Rproj.user/
+.DS_Store
+.Rhistory
+
 
 # wowchemy demos
 demo_content/
