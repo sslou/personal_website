@@ -1,0 +1,7 @@
+"0","df %>%"
+"0","  filter(CPT == 58953) %>% # TAH BSO debulking, dunno if I believe that >30% of the time > 2 units given"
+"0","  group_by(bleed_units_tot) %>%"
+"0","  summarize(n = n()) %>%"
+"0","  mutate(percent = n/sum(n)*100)"
+"2","`summarise()` ungrouping output (override with `.groups` argument)
+"

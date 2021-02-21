@@ -1,0 +1,4 @@
+"0","# pretty much checks out, NOTHBLEED is 1 when at least 1 unit of red cell of some sort is given"
+"0","df %>%"
+"0","  group_by(NOTHBLEED, bleed_units_tot) %>%"
+"0","  count()"

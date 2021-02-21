@@ -1,0 +1,41 @@
+"0","# install.packages(""blogdown"")"
+"0","# blogdown::install_hugo()"
+"0",""
+"0","library(blogdown)"
+"0","blogdown::hugo_build()"
+"1","Start building sites … 
+"
+"1","
+"
+"1"," "
+"1","                  |"
+"1"," EN  "
+"1","
+"
+"1","-"
+"1","------------------+"
+"1","-----"
+"1","
+"
+"1"," "
+"1"," "
+"1","Pages            | "
+"1","77  
+  Paginator pages  |  1  
+  Non-page files   | 18  
+  Static files     |  7  
+  Processed images | 25  
+  Aliases          |  8  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Total in 864 ms
+"
+"0","blogdown::serve_site()"
+"2","Launching the server via the command:
+  /Users/slou/Library/Application Support/Hugo/0.80.0/hugo server --bind 127.0.0.1 -p 7909 --themesDir themes -t starter-academic -D -F --navigateToChanged
+"
+"2","Serving the directory . at http://localhost:7909
+"
+"2","Launched the hugo server in the background (process ID: 7626). To stop it, call blogdown::stop_server() or restart the R session.
+"

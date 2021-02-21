@@ -1,0 +1,20 @@
+"0","supp = read_sas('~/Data/BloodProduct/NSQIP_raw/transfusion2019_puf.sas7bdat')"
+"0","df = read_csv('~/Data/BloodProduct/puf19_lite.csv') %>% "
+"0","  left_join(supp %>% "
+"0","              mutate(CASEID = caseid) %>% "
+"0","              select(CASEID, bleed_units_tot)"
+"0","            ) %>%"
+"0","  mutate(bleed_units_tot = na_if(bleed_units_tot, -99))"
+"2","
+[36m──[39m [1m[1mColumn specification[1m[22m [36m──────────────────────────────────────────────────────────────────────────────────────────────[39m
+cols(
+  .default = col_double(),
+  PRNCPTX = [31mcol_character()[39m,
+  OTHBLEED = [31mcol_character()[39m
+)
+[36mℹ[39m Use [38;5;235m[48;5;253m[38;5;235m[48;5;253m`spec()`[48;5;253m[38;5;235m[49m[39m for the full column specifications.
+
+"
+"2","Joining, by = ""CASEID""
+"
+"0","head(df)"

@@ -1,0 +1,4 @@
+"0","# seems like bleeding_units2-5 are all empty, filled with -99"
+"0","# bleeding_units1 seems equivalent to bleed_units_tot"
+"0","supp %>%"
+"0","  count(bleed_units_tot)"

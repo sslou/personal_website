@@ -1,0 +1,7 @@
+# generated website files
+public/
+resources/
+
+# wowchemy demos
+demo_content/
+themes/
