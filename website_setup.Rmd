@@ -2,10 +2,23 @@
 title: "Setup"
 output: html_document
 ---
+
 ```{r}
+# Install packages
 # install.packages("blogdown")
 # blogdown::install_hugo()
+```
 
+Open RStudio and select:
+* New Project
+* New Directory
+* Website using blogdown
+    * Directory name: here input the name of the folder which will contain all the website files.
+    * Create project as a subdirectory of: select the directory in which you want to install your website 
+    * Theme: `wowchemy/hugo-academic` instead of the default theme.
+    
+```{r}
+# To build and serve the website in order to make updates
 library(blogdown)
 blogdown::hugo_build()
 blogdown::serve_site()
