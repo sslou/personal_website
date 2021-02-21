@@ -1,7 +1,0 @@
-"0","df %>%"
-"0","  filter(CPT == 33405) %>% # AVR, seems realistic, but counts are low"
-"0","  group_by(bleed_units_tot) %>%"
-"0","  summarize(n = n()) %>%"
-"0","  mutate(percent = n/sum(n)*100)"
-"2","`summarise()` ungrouping output (override with `.groups` argument)
-"
