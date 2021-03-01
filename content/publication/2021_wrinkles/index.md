@@ -10,15 +10,15 @@ authors:
 - Edgar Gutierrez
 - Alex Groisman
 - Julie Theriot
-date: "2021-02-20"
-doi: ""
+date: "2021-02-23"
+doi: "10.1016/j.bpj.2021.02.022"
 featured: true
 image:
   caption: ''
   focal_point: ""
   preview_only: false
 publication: "Biophysical Journal *in press*"
-publication_short: "*Biophys J accepted*"
+publication_short: "*Biophys J in press*"
 publication_types:
 - "2"
 publishDate: "in press"

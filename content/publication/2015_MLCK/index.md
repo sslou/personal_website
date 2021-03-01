@@ -9,7 +9,7 @@ authors:
 - Daniel Fletcher
 - Julie Theriot
 date: "2015-04-27T00:00:00Z"
-doi: "https://doi.org/10.1083/jcb.201409001"
+doi: "10.1083/jcb.201409001"
 featured: false
 image:
   caption: 'Featured on the cover of [*JCB*](https://rupress.org/jcb/issue/209/2)'

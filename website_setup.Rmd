@@ -28,3 +28,8 @@ blogdown::serve_site()
 blogdown::stop_server()
 ```
 
+```{r}
+# git submodule add -f https://github.com/wowchemy/starter-academic.git themes/starter-academic
+# git submodule update --recursive --remote
+```
+

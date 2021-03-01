@@ -8,7 +8,7 @@ authors:
 - Phillip Taylor
 - Stephen Gregory
 date: "2020-12-14T00:00:00Z"
-doi: "https://doi.org/10.1053/j.jvca.2020.12.016"
+doi: "10.1053/j.jvca.2020.12.016"
 featured: false
 image:
   caption: ''

@@ -8,7 +8,7 @@ authors:
 - Sunny Lou
 - Phillip Payne
 date: "2020-12-22T00:00:00Z"
-doi: "https://doi.org/10.1093/jamia/ocaa305"
+doi: "10.1093/jamia/ocaa305"
 featured: false
 image:
   caption: ''
