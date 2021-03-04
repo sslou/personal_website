@@ -1,5 +1,5 @@
 ## Personal website
-Website created with [hugo](https://gohugo.io/), [R blogdown](https://bookdown.org/yihui/blogdown/), and the [wowchemy academic](https://github.com/wowchemy/starter-academic) theme. Served at [sslou.github.io](sslou.github.io).
+Website created with [hugo](https://gohugo.io/), [R blogdown](https://bookdown.org/yihui/blogdown/), and the [wowchemy academic](https://github.com/wowchemy/starter-academic) theme. Served at [sslou.rbind.io](sslou.rbind.io).
 
 ## Folders
 * config - contains configuration .toml files for layout of menus, and website parameters (including contact info, themes, fonts, layout of sections)
