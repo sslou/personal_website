@@ -1,5 +1,5 @@
 ---
-bio: Cardiac Anesthesia at Washington University in St Louis
+bio: Cardiac Anesthesiology at Washington University School of Medicine in St Louis
 education:
   courses:
   - course: Fellowship in Adult Cardiothoracic Anesthesiology
@@ -27,16 +27,19 @@ role: Clinical Fellow
 social:
 - display:
     header: true
-- icon: graduation-cap
-  icon_pack: fas
+- icon: google-scholar #graduation-cap
+  icon_pack: ai #fas
   link: https://scholar.google.com/citations?user=RdBhVaoAAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-4215-605X
+- icon: github
+  icon_pack: fab
+  link: https://github.com/sslou
 - icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/SunnyLouMD/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/sslou
 - icon: envelope
   icon_pack: fas
   link: /#contact
@@ -47,7 +50,7 @@ superuser: true
 title: Sunny S Lou, MD PhD
 ---
 
-Sunny Lou is a fellow in the Division of Adult Cardiothoracic Anesthesiology at Washington University in St Louis. Her research interests are in the development and deployment of models for clinical decision support.
+I'm a fellow in the Division of Adult Cardiothoracic Anesthesiology at the Washington University School of Medicine in St Louis. My research interests include leveraging information from Electronic Health Records to develop and deploy models for clinical decision support and improve anesthesiology workflow.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/LouSunny_CV.pdf" "newtab" >}}CV{{< /staticref >}}. 

@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Personal website for Sunny S Lou, MD PhD, cardiac anesthesiology fellow at WashU"
+description = "Sunny S. Lou, MD PhD. Cardiac Anesthesiology and Clinical Informatics. Washington University School of Medicine."
 
 ############################
 ## Site Features
@@ -289,4 +289,4 @@ plugins_js  = []
 ## Icon Pack Extensions
 ############################
 [icon.pack]
-  ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
