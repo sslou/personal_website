@@ -50,9 +50,9 @@ superuser: true
 title: Sunny S Lou, MD PhD
 ---
 
-I'm a fellow in the Division of Adult Cardiothoracic Anesthesiology at the Washington University School of Medicine in St Louis. My research interests include leveraging information from Electronic Health Records to develop and deploy models for clinical decision support and improve anesthesiology workflow.
+I'm a fellow in the Division of Adult Cardiothoracic Anesthesiology at the Washington University School of Medicine in St Louis. My research interests include leveraging information from the electronic health record to develop models for clinical decision support and improve anesthesiology workflow.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/LouSunny_CV.pdf" "newtab" >}}CV{{< /staticref >}}. 
+{{< icon name="download" pack="fas" >}} {{< staticref "media/LouSunny_CV.pdf" "newtab" >}}Download my CV{{< /staticref >}}. 
 
-{{< icon name="link" pack="fas" >}} Links to useful TEE resources [here](/resources/cardiac).
+{{< icon name="link" pack="fas" >}} [Links to useful TEE resources](/resources/cardiac).

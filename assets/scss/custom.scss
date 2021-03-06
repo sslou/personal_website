@@ -1,0 +1,84 @@
+// ************************************************
+// COLORS
+// ************************************************
+
+//$spc-primary:            #122140; // primary color
+//$spc-primary-light:      #3d486b; // primary color, lighter variant
+//$spc-primary-dark:       #00001b; // primary color, darker variant
+$spc-secondary:           #999999; //#007479; // secondary color
+//$spc-secondary-light:    #fff14d; // secondary color, lighter variant
+//$spc-secondary-dark:     #ae8f00; // secondary color, darker variant
+
+
+// ************************************************
+// NAVIGATION BAR: _nav.scss
+// ************************************************
+
+.navbar {
+  font-weight: 600;                         // weight for navbar text
+  //box-shadow: 0 0 0.8px 0.8px $spc-primary-dark;
+  text-transform: uppercase;
+  letter-spacing: .09em;                    // horizontal padding
+  padding: 0 2em;
+  .navbar-nav {
+    .nav-link {
+      &:focus,
+      &:hover,
+      &:active {
+        color: $spc-secondary !important;   // magnifying glass & palette icon color when hovering
+      }
+    }
+    .dropdown-menu {
+      .dropdown-item {
+        font-weight: 600;                   // sets weight for text in theme selection dropdown
+      }
+    }
+  }
+  .navbar-brand {
+    &:focus,
+    &:hover,
+    &:active {
+      font-weight: 700;
+      color: $spc-secondary !important;   // text color of name when hovering
+    }
+  }
+  .navbar-toggler {
+    &:focus,
+    &:hover,
+    &:active {
+      color: $spc-secondary;               // color of toggle menu
+    }
+  }
+}
+
+
+// ************************************************
+// CORE
+// ************************************************
+
+/* headings: _root.scss */
+
+h1, h2, h3, h4, h5, h6 {
+  color: #333;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+}
+
+
+/* links */
+
+a:active, 
+a:focus, 
+a:hover {
+  color: $spc-secondary;
+}
+
+
+// ************************************************
+// HOMEPAGE
+// ************************************************
+
+// add extra spacing bc "About Me" was removed
+#about .col-12.col-lg-8 {
+  padding-top: 30px !important;
+}
