@@ -15,53 +15,39 @@ $spc-secondary:           #999999; //#007479; // secondary color
 // ************************************************
 
 .navbar {
-  font-weight: 600;                         // weight for navbar text
-  //box-shadow: 0 0 0.8px 0.8px $spc-primary-dark;
+  //box-shadow: none;
   text-transform: uppercase;
-  letter-spacing: .09em;                    // horizontal padding
-  padding: 0 2em;
-  .navbar-nav {
-    .nav-link {
-      &:focus,
-      &:hover,
-      &:active {
-        color: $spc-secondary !important;   // magnifying glass & palette icon color when hovering
-      }
-    }
-    .dropdown-menu {
-      .dropdown-item {
-        font-weight: 600;                   // sets weight for text in theme selection dropdown
-      }
-    }
-  }
-  .navbar-brand {
-    &:focus,
-    &:hover,
-    &:active {
-      font-weight: 700;
-      color: $spc-secondary !important;   // text color of name when hovering
-    }
-  }
-  .navbar-toggler {
-    &:focus,
-    &:hover,
-    &:active {
-      color: $spc-secondary;               // color of toggle menu
-    }
-  }
+    letter-spacing: .09em;
+    //font-size: .9em;
 }
 
+.navbar-brand {
+  //text-transform: uppercase;
+  font-weight: 600;
+    letter-spacing: .07em;
+}
+
+.navbar .navbar-nav .nav-link:hover,
+.navbar .navbar-nav .nav-link:focus {
+    //color: $spc-secondary; //06805E
+    font-weight: 700;
+}
 
 // ************************************************
 // CORE
 // ************************************************
 
+body {
+  font-size: 0.9rem; // ~90% of base font size
+  //letter-spacing: 0.04em;
+}
+
 /* headings: _root.scss */
 
 h1, h2, h3, h4, h5, h6 {
-  color: #333;
+  //color: #333;
   font-weight: 400;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.01em;
 }
 
 
@@ -81,4 +67,18 @@ a:hover {
 // add extra spacing bc "About Me" was removed
 #about .col-12.col-lg-8 {
   padding-top: 30px !important;
+}
+
+
+// ************************************************
+// DARK MODE TWEAKS (currently doesn't work)
+// ************************************************
+
+.dark .btn-primary,
+.dark .btn.btn-primary.active {
+  color: #bbdefb;
+}
+
+.dark .card .section-subheading a {
+  color: #bbdefb; //$sta-primary
 }
