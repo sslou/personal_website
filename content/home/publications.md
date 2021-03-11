@@ -39,6 +39,4 @@ design:
   view: 2
 ---
 
-{{% callout note %}}
-Filter my publications [here](./publication/). For a full list of publications, please visit my profile on [google scholar](https://scholar.google.com/citations?user=RdBhVaoAAAAJ&hl=en).
-{{% /callout %}}
+

@@ -1,7 +1,7 @@
 theme: starter-academic
 title: Sunny S Lou
-baseurl: ''
-copyright: ''
+baseurl: 'https://sslou.rbind.io/'
+copyright: '&copy; Sunny Lou {year} - Made with [Hugo](https://gohugo.io/), [R Blogdown](https://bookdown.org/yihui/blogdown/), and the [Academic](https://github.com/wowchemy/starter-academic) theme.'
 enableGitInfo: no
 defaultContentLanguage: en
 hasCJKLanguage: no

@@ -14,3 +14,7 @@ header:
   caption: ""
   image: ""
 ---
+
+{{% callout note %}}
+Filter my publications [here](./publication/). For a full list of publications, please visit my profile on [google scholar](link/here/).
+{{% /callout %}}
