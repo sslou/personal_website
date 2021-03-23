@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Publications"
-  url = "#publications"
+  url = "#featured" #publications
 #  url = "publication/"
   weight = 50
 
@@ -40,6 +40,12 @@
   parent = "Resources"
   url = "resources/cardiac"
   weight = 1
+
+[[main]]
+  name = "DLT Sizing"
+  parent = "Resources"
+  url = "resources/dlt_sizing"
+  weight = 2
 
 #[[main]]
 #  name = "Contact"
