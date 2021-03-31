@@ -1,5 +1,5 @@
 ---
-date: "2021-03-22"
+date: "2021-03-30"
 linkTitle: Double Lumen Tube Sizing Guide
 weight: 2
 summary: Suggestions for sizing of DLTs
@@ -9,19 +9,20 @@ type: book #post #book
 
 The classic method for double lumen tube (DLT) sizing proposes a size based on the gender and height of the patient. However, due to variations in patient anatomy, this can still result in the selection of an inappropriately large tube, which increases the risk for tracheobronchial injury (1). 
 
-Nowadays, the majority of patients having surgery requiring lung isolation have a prior chest CT scan available for review. There is good evidence to suggest that choosing a DLT size based on the patient's CT anatomy leads to a better fit (2-4), which could reduce the need for tube manipulations and exchanges and reduce the risk for injury. Consider reviewing the CT scan to select the appropriate sized tube (see method below). Also, you might discover anatomic anomalies or potential modifiers to the surgical plan on the imaging that otherwise affect your anesthetic plan!
+Nowadays, the majority of patients having surgery requiring lung isolation have a prior chest CT scan available for review. There is good evidence to suggest that choosing a DLT size based on the patient's CT anatomy leads to a better fit (2-5), which could reduce the need for tube manipulations and exchanges and reduce the risk for injury. Consider reviewing the CT scan to select the appropriate sized tube (see method below). Also, you might discover anatomic anomalies or potential modifiers to the surgical plan on the imaging that otherwise affect your anesthetic plan!
 
-There are proponents for always choosing a 35 Fr DLT to minimize the risk of selecting an oversized tube (5). However, in some patients a 35 Fr DLT will still be too large (1). In addition, based on a systematic review of tracheobronchial injuries related to DLTs, most reported injuries have been with either 35 Fr or 37 Fr tubes (6), suggesting that undersized tubes can also increase the risk for injury (7,8).
+There are proponents for always choosing a 35 Fr DLT to minimize the risk of selecting an oversized tube (6). However, in some patients a 35 Fr DLT will still be too large (1). In addition, based on a systematic review of tracheobronchial injuries related to DLTs, most reported injuries have been with either 35 Fr or 37 Fr tubes (7), suggesting that undersized tubes can also increase the risk for injury (8,9).
 
-## Suggested Method for CT sizing of DLT (2,3)
+## Suggested Method for CT sizing of DLTs (2,4)
 - Load axial section chest CT images.
 - Set window to mediastinal (if available) or lung.
 - Scroll caudad until just distal to the carina, to where the proximal left mainstem bronchus appears cut in widest cross section.
 - Zoom in to minimize measurement error.
 - Measure the anterior-posterior dimension of the proximal left mainstem bronchus (assuming you are using a left-sided DLT), i.e. where you anticipate the cuff of your bronchial lumen to sit.
 - Select a size of DLT that has a bronchial lumen O.D. at least 1 mm smaller than the measured left mainstem bronchus AP diameter. **Note that there is significant DLT bronchial O.D. variability by manufacturer.** DLT dimensions for common manufacturers are shown in the tables below.
-- Some people have abnormally large airways for their larynx size. If the size suggested above seems egregious for your patient, consider also measuring cricoid ring AP diameter (4) and comparing with DLT tracheal O.D.
+- Some people have large airways for their larynx size. If the size suggested above seems egregious for your patient, consider also measuring cricoid ring AP diameter (5) and comparing with DLT tracheal O.D.
 
+![CT Scan Measurement of Left Main Bronchus Diameter](ct_measure.jpg)
 
 ## DLT Measurements by Manufacturer
 - Tubes available at BJH include Parker for sizes 32-41 Fr and Rusch for 28 Fr. 
@@ -56,9 +57,10 @@ Measurements shown are for tracheal lumen outer diameter as measured in the ( la
 
 1. Lou et al. *submitted*
 2. Hannallah et al. (1997) *JCVA*, doi: 10.1016/S1053-0770(97)90208-1
-3. Seo et al. (2018) *JCVA*, doi: 10.1053/j.jvca.2017.10.008
-4. Shiqing et al. (2018) *JCVA*, doi: 10.1053/j.jvca.2017.11.029
-7. Amar et al. (2008) *A&A*, doi: 10.1213/ane.0b013e3181602e41
-8. Liu et al. (2020) *A&A*, doi: 10.1213/ANE.0000000000004669
-9. Lohser and Brodsky (2005) *A&A*, doi: 10.1213/01.ANE.0000173750.04255.F1
-10. Lohser and Brodsky (2008) *A&A*, doi: 10.1213/ane.0b013e318173e788
+3. Eberle et al. (1999) *JCVA*, doi: 10.1016/S1053-0770(99)90003-4
+4. Seo et al. (2018) *JCVA*, doi: 10.1053/j.jvca.2017.10.008
+5. Shiqing et al. (2018) *JCVA*, doi: 10.1053/j.jvca.2017.11.029
+6. Amar et al. (2008) *A&A*, doi: 10.1213/ane.0b013e3181602e41
+7. Liu et al. (2020) *A&A*, doi: 10.1213/ANE.0000000000004669
+8. Lohser and Brodsky (2005) *A&A*, doi: 10.1213/01.ANE.0000173750.04255.F1
+9. Lohser and Brodsky (2008) *A&A*, doi: 10.1213/ane.0b013e318173e788
