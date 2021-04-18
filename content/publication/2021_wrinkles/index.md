@@ -12,7 +12,7 @@ authors:
 - Julie Theriot
 date: "2021-02-23"
 doi: "10.1016/j.bpj.2021.02.022"
-featured: true
+featured: false
 image:
   caption: ''
   focal_point: ""

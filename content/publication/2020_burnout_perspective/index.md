@@ -22,8 +22,8 @@ publication_types:
 publishDate: "2020-12-22T00:00:00Z"
 
 summary: ""
-tags:
-- 
+tags: 
+- Burnout
 title: "Conceptual considerations for using EHR-based activity logs to measure clinician burnout and its effects"
 url_code: ""
 url_dataset: ""
