@@ -55,7 +55,7 @@ Measurements shown are for tracheal lumen outer diameter as measured in the ( la
 - Shiley / Mallinckrodt bronchial O.D. from [Hannallah et al](https://doi.org/10.1016/S1053-0770(97)90208-1) and [McDaniel et al](https://www.apsf.org/article/double-lumen-endotracheal-endobronchial-tube-diameter-size-indicators-on-packaging-remain-suboptimal/). Portex Blue Line sizing available at [Shiqing et al](https://doi.org/10.1053/j.jvca.2017.11.029), and Silbronco measurements available at [Lohser and Brodsky](https://doi.org/10.1053/j.jvca.2005.03.035).
 - Tracheal O.D. measurements were made with representative tubes using digital calipers.
 
-1. Lou et al. (2021) *JCVA*, doi: 10.1053/j.jvca.2021.04.020
+1. [Lou et al. (2021) *JCVA*, doi: 10.1053/j.jvca.2021.04.020](https://doi.org/10.1053/j.jvca.2021.04.020)
 2. Hannallah et al. (1997) *JCVA*, doi: 10.1016/S1053-0770(97)90208-1
 3. Eberle et al. (1999) *JCVA*, doi: 10.1016/S1053-0770(99)90003-4
 4. Seo et al. (2018) *JCVA*, doi: 10.1053/j.jvca.2017.10.008
