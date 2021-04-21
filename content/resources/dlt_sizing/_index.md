@@ -9,7 +9,7 @@ type: book #post #book
 
 The classic method for double lumen tube (DLT) sizing proposes a size based on the gender and height of the patient. However, due to variations in patient anatomy, this can still result in the selection of an inappropriately large tube, which increases the risk for tracheobronchial injury (1). 
 
-Nowadays, the majority of patients having surgery requiring lung isolation have a prior chest CT scan available for review. There is good evidence to suggest that choosing a DLT size based on the patient's CT anatomy leads to a better fit (2-5), which could reduce the need for tube manipulations and exchanges and reduce the risk for injury. Consider reviewing the CT scan to select the appropriate sized tube (see method below). Also, you might discover anatomic anomalies or potential modifiers to the surgical plan on the imaging that otherwise affect your anesthetic plan!
+Nowadays, the majority of patients having surgery requiring lung isolation have a prior chest CT scan available for review. There is good evidence to suggest that choosing a DLT size based on the patient's CT anatomy leads to a better fit (2-5), especially for women (5), which could reduce the need for tube manipulations and exchanges and reduce the risk for injury. Consider reviewing the CT scan to select the appropriate sized tube (see method below). Also, you might discover anatomic anomalies or potential modifiers to the surgical plan on the imaging that otherwise affect your anesthetic plan!
 
 There are proponents for always choosing a 35 Fr DLT to minimize the risk of selecting an oversized tube (6). However, in some patients a 35 Fr DLT will still be too large (1). In addition, based on a systematic review of tracheobronchial injuries related to DLTs, most reported injuries have been with either 35 Fr or 37 Fr tubes (7), suggesting that undersized tubes can also increase the risk for injury (8,9).
 
@@ -55,7 +55,7 @@ Measurements shown are for tracheal lumen outer diameter as measured in the ( la
 - Shiley / Mallinckrodt bronchial O.D. from [Hannallah et al](https://doi.org/10.1016/S1053-0770(97)90208-1) and [McDaniel et al](https://www.apsf.org/article/double-lumen-endotracheal-endobronchial-tube-diameter-size-indicators-on-packaging-remain-suboptimal/). Portex Blue Line sizing available at [Shiqing et al](https://doi.org/10.1053/j.jvca.2017.11.029), and Silbronco measurements available at [Lohser and Brodsky](https://doi.org/10.1053/j.jvca.2005.03.035).
 - Tracheal O.D. measurements were made with representative tubes using digital calipers.
 
-1. Lou et al. *submitted*
+1. Lou et al. (2021) *JCVA*, doi: 10.1053/j.jvca.2021.04.020
 2. Hannallah et al. (1997) *JCVA*, doi: 10.1016/S1053-0770(97)90208-1
 3. Eberle et al. (1999) *JCVA*, doi: 10.1016/S1053-0770(99)90003-4
 4. Seo et al. (2018) *JCVA*, doi: 10.1053/j.jvca.2017.10.008
