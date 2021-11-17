@@ -1,5 +1,5 @@
 ---
-date: "2021-03-30"
+date: "2021-04-21"
 linkTitle: Double Lumen Tube Sizing Guide
 weight: 2
 summary: Suggestions for sizing of DLTs

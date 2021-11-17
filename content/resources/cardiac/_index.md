@@ -4,7 +4,7 @@ linkTitle: Cardiac Anesthesia
 weight: 1
 summary: TEE guidelines, educational resources, and WashU clinical protocols
 title: "Cardiac Anesthesia"
-type: book #post #book
+type: book #post
 ---
 
 ## ASE TEE Guidelines
@@ -22,8 +22,8 @@ type: book #post #book
 ## WashU Internal Protocols 
 (requires wustl-key)
 - [POD3 CT Protocols](https://collaboration.wustl.edu/depts/anest/Anesthesiology/BJHClinicalAreas/POD3CT/default.aspx)
-- [TXA protocol](https://collaboration.wustl.edu/depts/anest/Anesthesiology/BJHClinicalAreas/POD3CT/Shared%20Documents/Tranexamic%20Acid%20CPB%20Protocol.pdf)
 - [WashU Internal TEE Site](https://sites.wustl.edu/teeresources/)
+- [BJH lab test catalogue](https://bjhlab.testcatalog.org/)
 
 ## [Double Lumen Tube Sizing Guide](/resources/dlt_sizing)
 
