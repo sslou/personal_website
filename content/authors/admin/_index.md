@@ -2,7 +2,7 @@
 bio: Cardiac Anesthesiology at Washington University School of Medicine in St Louis
 education:
   courses:
-  - course: Fellowship in Adult Cardiothoracic Anesthesiology
+  - course: Fellowship in Adult Cardiothoracic Anesthesiology, 2022
     institution: Washington University in St Louis
     year: 
   - course: Residency in Anesthesiology
@@ -50,7 +50,7 @@ superuser: true
 title: Sunny S Lou, MD PhD
 ---
 
-I'm a fellow in the Division of Adult Cardiothoracic Anesthesiology at the Washington University School of Medicine in St Louis. My research interests include leveraging information from the electronic health record to develop models for clinical decision support and improve anesthesiology workflow.
+I'm a fellow in the Division of Adult Cardiothoracic Anesthesiology at the Washington University School of Medicine in St Louis. My research interests include leveraging information from the electronic health record to develop models for clinical decision support and to improve anesthesiology workflow.
 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "media/LouSunny_CV.pdf" "newtab" >}}Download my CV{{< /staticref >}}. 

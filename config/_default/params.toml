@@ -97,7 +97,8 @@ address = {street = "One Barnes Jewish Hospital Plaza", city = "St Louis", regio
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {}#{latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "38.6352", longitude = "-90.2648"}
+#{latitude = "37.4275", longitude = "-122.1697"} # stanford
 
 # Directions for visitors to locate you.
 directions = ""
