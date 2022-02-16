@@ -10,7 +10,7 @@ authors:
 - Thomas Kannampallil
 date: "2021-04-17T00:00:00Z"
 doi: "10.1186/s12909-021-02665-0"
-featured: true
+featured: false
 image:
   caption: 'Image: Dharmesh Patel/Texas A&M Engineering'
   focal_point: ""

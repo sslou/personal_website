@@ -7,8 +7,8 @@ education:
     year: 
   - course: Residency in Anesthesiology
     institution: Washington University in St Louis
-    year: 2021
-  - course: MD, PhD in Chemical and Systems Biology
+    year: 2022
+  - course: MD, PhD in Systems Biology
     institution: Stanford University
     year: 2017
 #  - course: SB in Biology

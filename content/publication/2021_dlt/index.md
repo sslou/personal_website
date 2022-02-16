@@ -1,5 +1,5 @@
 ---
-abstract: Tracheobronchial injury is rare but serious complication of double lumen tube (DLT) insertion. Here, we report two cases of tracheal laceration as a complication of DLT placement in patients undergoing lung transplantation and describe the increased risk for airway trauma in this patient population. We make additional suggestions to increase the margin of safety for DLT placement and present the variation of bronchial lumen size between three manufacturers of DLT commonly used in practice, with implications for DLT size selection.
+abstract: Tracheobronchial injury is rare but serious complication of double lumen tube (DLT) insertion. Here, we report two cases of tracheal laceration as a complication of DLT placement in patients undergoing lung transplantation and describe the increased risk for airway trauma in this patient population. We make additional suggestions to increase the margin of safety for DLT placement and present the variation of bronchial lumen size between three manufacturers of DLT commonly used in practice, with implications for DLT size selection. We suggest that [CT-guided sizing of DLTs](https://sslou.rbind.io/resources/dlt_sizing/) should be routinely performed, especially for high-risk patients.
 author_notes:
 -
 authors:

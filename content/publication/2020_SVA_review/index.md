@@ -23,7 +23,7 @@ publishDate: "2020-12-14T00:00:00Z"
 
 summary: ""
 tags:
-- 
+- Anesthesia
 title: Sinus of Valsalva Aneurysms - A Review with Perioperative Considerations
 url_code: ""
 url_dataset: ""
