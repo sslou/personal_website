@@ -23,6 +23,7 @@ slides:
 summary: Physician burnout is widespread, especially during the COVID-19 pandemic, and has serious consequences for the health of physicians and their patients. Burnout needs to be measured before it can be improved, but the current ways to measure burnout involve physicians filling out surveys, a request that engenders little enthusiasm. We set out to develop a model that could identify burnout in physicians from passively collected EHR log data. However, we ran into several challenges; our experiences are described in this manuscript.
 tags:
 - Burnout
+- Audit Log
 title: Predicting physician burnout using clinical activity logs - Model performance and lessons learned
 url_code: 'https://github.com/sslou/publications/tree/main/2021_burnout_lmm'
 url_dataset: ''

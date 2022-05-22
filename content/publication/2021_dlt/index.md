@@ -9,7 +9,7 @@ authors:
 - Mohammad Helwani
 date: "2021-04-19T00:00:00Z"
 doi: "10.1053/j.jvca.2021.04.020"
-featured: true
+featured: false
 image:
   caption: '*JCVA*'
   focal_point: ""
