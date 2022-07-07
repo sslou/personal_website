@@ -18,12 +18,13 @@ email: "slou at wustl dot edu"
 highlight_name: false
 interests:
 - Clinical Informatics
-- Quality Improvement
-- Machine Learning
+- Electronic Health Record Optimization
+- Perioperative Blood Management
+- Machine Learning for Healthcare
 organizations:
 - name: Washington University in St Louis
   url: https://anesthesiology.wustl.edu/
-role: Clinical Fellow
+role: Instructor of Anesthesiology
 social:
 - display:
     header: true
@@ -50,7 +51,7 @@ superuser: true
 title: Sunny S Lou, MD PhD
 ---
 
-I'm a fellow in the Division of Adult Cardiothoracic Anesthesiology at the Washington University School of Medicine in St Louis. My research interests include leveraging information from the electronic health record to develop models for clinical decision support and to improve anesthesiology workflow.
+I'm an Instructor in the Divisions of Cardiothoracic Anesthesiology, Clinical and Translational Research (DoCTR), and Institute for Informatics (I2) at the Washington University School of Medicine in St Louis. My research interests include leveraging information from the electronic health record to develop models for clinical decision support and improve clinician workflow.
 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "media/LouSunny_CV.pdf" "newtab" >}}Download my CV{{< /staticref >}}. 
