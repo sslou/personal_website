@@ -17,11 +17,11 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-publication: "Biophysical Journal *in press*"
-publication_short: "*Biophys J in press*"
+publication: "Biophysical Journal"
+publication_short: "*Biophys J*"
 publication_types:
 - "2"
-publishDate: "in press"
+publishDate: "2022"
 slides: 
 summary: In order for cells to migrate, tiny actin proteins on the nanometer length scale need to coordinate their polymerization and force generation over the micron length scale of the entire cell. The mechanisms that allow for this coordination are unclear. We observe that the actin cytoskeleton in fish skin cells buckles into a periodic pattern of wrinkles, and demonstrate that this pattern is consistent with a physical model in which the actin behaves as an elastic sheet compressed by myosin motor activity. These results imply that the lamellipodium can behave as an elastic material despite rapid actin turnover, and that physical forces can directly propagate through the actin cytoskeleton to coordinate cell migration.
 tags:
