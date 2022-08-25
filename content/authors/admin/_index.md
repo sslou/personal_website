@@ -51,7 +51,7 @@ superuser: true
 title: Sunny S Lou, MD PhD
 ---
 
-I'm an Instructor in the Divisions of Cardiothoracic Anesthesiology, Clinical and Translational Research (DoCTR), and Institute for Informatics (I2) at the Washington University School of Medicine in St Louis. My research interests include leveraging information from the electronic health record to develop models for clinical decision support and improve clinician workflow.
+I'm an Instructor in the Divisions of Cardiothoracic Anesthesiology, Clinical and Translational Research (DoCTR), and Institute for Informatics (I2) at the Washington University School of Medicine in St Louis. My research is focused on the use of clinical informatics and data science to improve clinician workflow, efficiency, and the quality of clinical care.
 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "media/LouSunny_CV.pdf" "newtab" >}}Download my CV{{< /staticref >}}. 
