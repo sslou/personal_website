@@ -4,7 +4,7 @@ authors:
 - Sunny Lou
 - Hanyang Liu
 - Derek Harford
-- Chenyang L
+- Chenyang Lu
 - Thomas Kannampallil
 date: "2023-02-16"
 doi: "10.1093/jamia/ocac239"

@@ -24,7 +24,7 @@ interests:
 organizations:
 - name: Washington University in St Louis
   url: https://anesthesiology.wustl.edu/
-role: Instructor of Anesthesiology
+role: Instructor in Anesthesiology
 social:
 - display:
     header: true

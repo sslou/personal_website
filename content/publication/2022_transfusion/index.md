@@ -7,7 +7,7 @@ authors:
 - Troy Wildes
 - Bruce Hall
 - Thomas Kannampallil
-date: "2022-02-11"
+date: "2022-07-02"
 doi: "10.1097/ALN.0000000000004139"
 featured: True
 image:
