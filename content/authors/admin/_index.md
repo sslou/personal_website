@@ -24,7 +24,7 @@ interests:
 organizations:
 - name: Washington University in St Louis
   url: https://anesthesiology.wustl.edu/
-role: Instructor in Anesthesiology
+role: Assistant Professor in Anesthesiology
 social:
 - display:
     header: true
@@ -51,7 +51,7 @@ superuser: true
 title: Sunny S Lou, MD PhD
 ---
 
-I'm an Instructor in the Divisions of Cardiothoracic Anesthesiology, Clinical and Translational Research (DoCTR), and Institute for Informatics (I2) at the Washington University School of Medicine in St Louis. My research is focused on the use of clinical informatics and data science to improve clinician workflow, efficiency, and the quality of clinical care.
+I'm an Assistant Professor in the Divisions of Cardiothoracic Anesthesiology, Clinical and Translational Research (DoCTR), and Institute for Informatics (I2) at the Washington University School of Medicine in St Louis. My research is focused on the use of clinical informatics and data science to improve clinician workflow, efficiency, and the quality of clinical care.
 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "media/LouSunny_CV.pdf" "newtab" >}}Download my CV{{< /staticref >}}. 
