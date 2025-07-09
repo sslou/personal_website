@@ -9,7 +9,7 @@ authors:
 - Thomas Kannampallil
 date: "2022-07-02"
 doi: "10.1097/ALN.0000000000004139"
-featured: True
+featured: False
 image:
   caption: ''
   focal_point: ""
@@ -24,6 +24,7 @@ summary: 20 million patients have surgery in the US every year, and ~ 1 million 
 tags:
 - Anesthesia
 - Patient Blood Management
+- Machine Learning
 title: Personalized Surgical Transfusion Risk Prediction Using Machine Learning to Guide Preoperative Type and Screen Orders
 url_code: 'https://github.com/sslou/publications/tree/main/2021_blood_product'
 url_dataset: ''

@@ -10,7 +10,7 @@ authors:
 - Thomas Kannampallil
 date: "2022-05-11"
 doi: "10.1016/j.bja.2022.04.012"
-featured: True
+featured: False
 image:
   caption: ''
   focal_point: ""
