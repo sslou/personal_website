@@ -16,7 +16,9 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
+  # Keep the deliberately obfuscated address readable without generating a
+  # broken mailto link.
+  autolink: false
   
 
   
