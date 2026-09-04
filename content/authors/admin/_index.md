@@ -14,7 +14,7 @@ education:
 #  - course: SB in Biology
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
-email: "slou at wustl dot edu"
+email: "slou@wustl.edu"
 highlight_name: false
 interests:
 - Clinical Informatics
@@ -24,10 +24,8 @@ interests:
 organizations:
 - name: Washington University in St Louis
   url: https://anesthesiology.wustl.edu/
-role: Assistant Professor in Anesthesiology
+role: Assistant Professor of Anesthesiology
 social:
-- display:
-    header: true
 - icon: google-scholar #graduation-cap
   icon_pack: ai #fas
   link: https://scholar.google.com/citations?user=RdBhVaoAAAAJ&hl=en
@@ -54,6 +52,6 @@ title: Sunny S Lou, MD PhD
 I'm an Assistant Professor in the Divisions of Cardiothoracic Anesthesiology, Clinical and Translational Research (DoCTR), and Institute for Informatics (I2) at the Washington University School of Medicine in St Louis. My research is focused on the use of clinical informatics and data science to improve clinician workflow, efficiency, and the quality of clinical care.
 
 
-{{< icon name="download" pack="fas" >}} {{< staticref "media/LouSunny_CV.pdf" "newtab" >}}Download my CV{{< /staticref >}}. 
+{{< icon name="download" pack="fas" >}} {{< staticref "media/LouSunny_CV.pdf" "newtab" >}}Download my CV{{< /staticref >}}
 
-{{< icon name="link" pack="fas" >}} [Links to useful TEE resources](/resources/cardiac).
+{{< icon name="link" pack="fas" >}} [TEE resources](/resources/cardiac)
