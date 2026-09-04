@@ -14,7 +14,7 @@ education:
 #  - course: SB in Biology
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
-email: "slou at wustl dot edu"
+email: "slou@wustl.edu"
 highlight_name: false
 interests:
 - Clinical Informatics
@@ -24,7 +24,7 @@ interests:
 organizations:
 - name: Washington University in St Louis
   url: https://anesthesiology.wustl.edu/
-role: Assistant Professor in Anesthesiology
+role: Assistant Professor of Anesthesiology
 social:
 - icon: google-scholar #graduation-cap
   icon_pack: ai #fas
@@ -54,4 +54,4 @@ I'm an Assistant Professor in the Divisions of Cardiothoracic Anesthesiology, Cl
 
 {{< icon name="download" pack="fas" >}} {{< staticref "media/LouSunny_CV.pdf" "newtab" >}}Download my CV{{< /staticref >}}
 
-{{< icon name="link" pack="fas" >}} [Links to useful TEE resources](/resources/cardiac)
+{{< icon name="link" pack="fas" >}} [TEE resources](/resources/cardiac)

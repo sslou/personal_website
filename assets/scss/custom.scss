@@ -228,8 +228,8 @@ input:focus-visible {
 #about .article-style {
   max-width: 690px;
   color: var(--sl-text);
-  font-size: clamp(1.08rem, 1.35vw, 1.24rem);
-  line-height: 1.72;
+  font-size: 1.08rem;
+  line-height: 1.6;
 }
 
 #about .article-style > p:first-child { margin-bottom: 1.75rem; }
